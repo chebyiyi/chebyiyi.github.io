@@ -1,0 +1,37 @@
+
+[
+ {"bid":"chu.fjak.gdme",
+ "auditState":1,
+ "url":"",
+ "version":"1.0.1"},
+
+ {"bid":"chu.fjak.gdme",
+ "auditState":1,
+ "url":"https://rxcq.tantanyou.com",
+ "version":"1.0.2"},
+
+{"bid":"com.yscq.sfzx",
+ "auditState":1,
+ "url":"https://rxcq.tantanyou.com",
+ "version":"1.0.1"},
+
+{"bid":"com.yscq.sfzx",
+ "auditState":0,
+ "url":"https://rxcq.tantanyou.com",
+ "version":"1.1.1"},
+
+{"bid":"com.rxfg.gbb",
+ "auditState":0,
+ "url":"http://wx.6938305.com/Wx2/game/by/29970767",
+ "version":"1.0.2"},
+
+{"bid":"com.rxfg.gbb",
+ "auditState":1,
+ "url":"http://wx.6938305.com/Wx2/game/by/29970767",
+ "version":"1.0.1"},
+
+{"bid":"com.cqx.yqw",
+ "auditState":1,
+ "url":"http://wx.6938305.com/Wx2/game/by/29970767",
+ "version":"1.0.1"}
+ ]

@@ -33,5 +33,10 @@
 {"bid":"com.cqx.yqw",
  "auditState":1,
  "url":"http://wx.6938305.com/Wx2/game/by/29970767",
+ "version":"1.0.1"},
+
+{"bid":"com.jszs.xs",
+ "auditState":0,
+ "url":"http://wx.6938305.com/Wx2/game/by/29970767",
  "version":"1.0.1"}
  ]

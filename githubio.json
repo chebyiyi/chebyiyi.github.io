@@ -38,5 +38,10 @@
 {"bid":"com.jueshi.zs",
  "auditState":1,
  "url":"http://h5.07073.com/gameplay/pc-cqll?appid=10124&",
- "version":"1.0.1"}
+ "version":"1.0.1"},
+
+{"bid":"com.jueshi.zs",
+ "auditState":0,
+ "url":"http://h5.07073.com/gameplay/pc-cqll?appid=10124&",
+ "version":"1.0.2"}
  ]
